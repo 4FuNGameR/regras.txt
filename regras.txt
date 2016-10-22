@@ -1,0 +1,101 @@
+**Regras Gerais
+
+1°-Antes de chamar um Staff por quebra de regra, converse com quem lhe prejudicou.
+2°-Deixe de lado a morte se estava ausente, na maioria dos casos a morte está relacionada ao roleplay.
+3°-Respeite todos da comunidade. Tolerância zero para ofensas fora do roleplay.
+4°-Não mate jogadores sem que haja um motivo válido dentro do roleplay.
+5°-Não atire aleatoriamente para nenhum local ou jogador. [Se causar dano: Random Shot] [Se ocasionar morte: Random Death Match].
+6°-Existe o "fear", ou "medo da morte", que o jogador tem quando é ameaçado, por isso deve-se obedecer incondicionalmente o outro jogador quando rendido ou ameaçado. O jogador pode manter o alvo amarrado no chão até colaborar com suas exigências, após cumprir com as mesmas, o jogador rendido ou ameaçado deve ser liberto imediatamente e ileso.
+7°-Não utilize props para escalar algo, atrapalhar ou prender algum jogador. [Algumas classes podem utilizar props apenas para escalar em locais de difícil acesso, fora isto, é estritamente proibido].
+8°-Esqueça-se de tudo que fizeram de ruim a você nas suas vidas passadas, não se vingue de ninguém e não volte ao local da morte por 2 minutos após morrer. [Caso retorne e continue a quebrar a regra, será advertido e retirado do local por um membro do Staff].
+9°-Proibido identificar Job de qualquer que seja o jogador sem que ele faça o anúncio anteriormente. [Exceção: Policiais, Vigilantes, Agentes do Governo e Cachorros]. [Caso identifique sem uma exceção justa, é considerado Meta Game].
+10°-Jogadores disfarçados só podem ser identificados se outro jogador o avistou se disfarçando.
+11°-A força Policial pode prender suspeitos disfarçados de Policial ou Funcionário Público apenas se houver denúncia feita por outra pessoa. [A denúncia deve ser feita pelo jogador que avistou o outro se disfarçando].
+12°-Não é necessário anunciar Raids, Hits e Mugs, como em alguns outros servidores. [Exceto para Raid no Departamento de Polícia e Banco].
+13°-Não Abuse do Microfone, utilize-o para falar apenas o necessário ou exercer a função da sua Job. [Proibido alteração na frequência de gravação do timbre de voz, sua voz deve ser escutada como ela é].
+14°-Não abuse da sua Job, nunca utilize as armas ou itens de uma Job para transferi-los até você após mudar a mesma.  [É considerado Auto-Suprimento, e é terminantemente proibido].
+15°-Proibido render jogadores sem que haja um motivo válido dentro do roleplay.
+16°-Proibido fazer Bunny Hop.
+17°-Não existe regra contra render em combate. [Uma pessoa desarmada pode ser rendida por uma armada mesmo que esteja socando ela].
+18°-Se um Staff está fora da Job STAFF e estiver dentro do roleplay, não fique com receio em atacar ou interagir com ele, apenas siga o roleplay, assalte ele, prenda ele, assassine, mas sem quebrar nenhuma regra. Viva um roleplay bacana. [Caso o Staff esteja com a Job Staff e for atacado por alguém no roleplay, o player atacante estará passível de punição imediata].
+19°-Faça um roleplay como se fosse à vida real, interprete todas as situações de maneira vibrante, deixando seu jogo e o dos outros jogadores bastante intuitivo.
+20°-Proibido usar o chat OOC para ONRP.
+21°-Proibido usar o chat Advert para OFFRP.
+22°-Proibido EarRape.
+23º-Proibido bloquear a visão de câmeras com props, caso seja um Raid ou uma Invasão você poderá destruí-la.
+24º-Para raid no Departamento de Polícia , pede-se obrigatóriamente 4 Policiais Online no mínimo, para ser executado.
+25°-Para raid no Banco , pede-se obrigatóriamente 4 Policiais e 1 Banqueiro Online no mínimo, para ser executado.
+26º-Para cometer infrações (Roubar/Matar/Sequestrar/Etc) pede-se obrigatóriamente, 2 policiais no mínimo para a mesma ser executada. [É autorizado apenas, o Assassinato por Contrato *HIT*, quando não houver policiais online] 
+27º-É terminantemente proibido consumir entidades de Comida durante um combate, caso isso aconteça, o mesmo será considerado FAIL RP. [É considerado um combate entre dois ou mais players, apenas quando ambos aplicam dano simultaneamente entre si].
+28º-Para realizar atentados ao Governador, são necessários 3 membros das Forças Policiais para o mesmo ser realizado.
+29º-Somente Vigilantes contratados pelo Banqueiro poderão ter Roleplay no banco.
+30º-O Câmera Man não pode ser sequestrado,assaltado ou roubado.
+31º-Nenhum Civil pode ser sequestrado. [Assalto e Roubo são permitidos.]
+
+**Regras De Construção
+
+A1- Os keypads e botões devem ser visíveis e de fácil acesso, e devem estar próximos a fading door.
+B1- A keypad não pode estar escondida e nem camuflada.
+C1- Máximo de 3 Fading Doors por base.
+D1- Propriedades com placa que indicam construção estão fora do roleplay e não podem ter printers, ou serem atacadas.
+E1- As Fading Doors devem ficar abertas por 5 segundos quando ativadas.
+F1- Proibido criar props invisíveis ou muito transparentes.
+G1- Proibido bloquear entradas da base.
+H1- Proibido forçar o jogador a se agachar para invadir a base.
+I1- Proibido props voadores, exceto aqueles que se encostam a algum tipo de estrutura.
+J1- Proibido qualquer estrutura que fuja da realidade e quebre o roleplay.
+K1- Qualquer tipo de abuso visual na base é proibido.
+L1- Linhas de KOS são permitidas apenas a partir de uma pequena área perto da porta comprada da base.
+M1- Para fazer bases fora de propriedades com portas, é obrigatório requisitar a autorização de um Staff.
+N1- Mendigos devem construir em lugares que não atrapalhem o fluxo dos jogadores.
+O1- Proibido usar materiais em câmeras.
+P1- Proibido usar materiais para abusar, como por exemplo, ver somente de um lado da parede.
+Q1- Faça bases com props leves e evite exagero de materiais animados, para evitar lag no servidor.
+R1- Proibido usar uma casa sem comprar suas respectivas portas.
+
+**Regras De Governo
+
+Atenção: As leis aqui citadas não podem ser modificadas, nem muito menos devem ser criadas exceções para as mesmas. Devem ser aplicadas apenas pelas Forças Policiais. Governadores não podem modificar as leis citadas aqui.
+
+RG1- Prejudicar a vida de alguém é ilegal.
+RG2- Armas de qualquer tipo não licenciadas, são ilegais.
+RG3- Money Printers e seus acessórios fora de Bancos são ilegais.
+RG4- Armas licenciadas são somente para legítima defesa e não podem estar à mostra sem motivo plausível.
+RG5- As leis colocadas pelo Governador devem ser seguidas, só não serão permitidas leis que por ventura venham ser contrárias às regras do servidor. [Exemplo: Legalizar Drogas e Eliminar População].
+RG6- Proibido eliminar pessoas desarmadas, é obrigatório ser realizada a prisão dos mesmos.
+RG7- Proibido soltar detentos sem antes dialogar com eles.
+RG8- Utilizar força letal somente em casos extremos.
+
+**Regras Da Marginalidade
+
+RM1- Proibido sequestrar, roubar, matar, qualquer pessoa que esteja na ATM.
+RM2- Proibido sequestrar, roubar, render, pessoas que estão rendendo alguém. [Exemplo: Policiais rendendo pessoas para efetuar prisões ou ladrões rendendo para roubar].
+RM3- Um Hitman pode matar as pessoas próximas ao seu alvo quando tiver certeza que irá matar o alvo logo em seguida.
+RM4- O valor máximo para se pedir em um assalto é de 5 mil.
+RM5- O tempo máximo para manter alguém como refém em sequestro é de 15 minutos, até receber o valor do resgate, caso não receba, o mesmo pode decidir se solta ou se executa a vítima.
+RM6- O valor máximo a ser pedido em um sequestro é de 50 mil.
+RM7- Os membros só podem ajudar um aliado caso esteja na mesma party.
+RM8- O sequestrador deve respeitar o tempo de 15 minutos para sequestrar a mesma pessoa novamente.
+RM9- Proibido soltar alguém que não é da sua party, caso esteja rendido. [Exceção para mendigos, todos devem ser amigos].
+RM10- Proibido criar uma party com Jobs que não sejam do crime. [Exemplo: Vendedor de Armas com Ladrões].
+
+**Tabela De Punições
+
+Ofensa ao Servidor = [Ban] Permanente
+Ofensa a Staff = [Ban] 1 Semana
+Bugs quaisquer cometidos = [Ban] 2 Semanas
+Divulgar outros Servidores = [Ban] Permanente
+Auto-Suprimento = [Ban] 8 Horas
+Massive RDM = [Ban] 1 Semana
+Praticar assalto, sequestro, raid sem nenhum policial = [Ban] 60 Minutos
+Utilizar Chat OOC para ON RP = [Jail 3 Min] + [Warn]
+Utilizar Chat ADV para OFF RP = [Jail 3 Min] + [Warn]
+Utilizar um imóvel sem comprar suas portas = [Jail 5 Min]
+Marginal não soltar ou matar caso a exigência por ele for atendida = [Jail 5 Min] + [Warn]
+Entrar na Job e sair para soltar amigos = [Jail 10 Min] + [Warn] [Vale para os dois players]
+RDM = [Jail 5 Min] + [Warn]
+Not Intentional RDM = [Jail 3 Min]
+NLR Zone = [Jail 5 Min]
+
+Denuncie Staffs apenas pelo Fórum com provas concretas para validar sua denúncia.
+Não incomode os donos do Servidor na Steam para reclamar de algo, caso o faça, será excluído da Steam e possivelmente bloqueado.
